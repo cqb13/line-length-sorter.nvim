@@ -2,6 +2,8 @@
 
 A Neovim plugin for sorting lines of text by length, either from longest to shortest or shortest to longest. Ideal for cleaning up and organizing your text or code.
 
+https://github.com/user-attachments/assets/21828cfa-4a89-4435-9cd3-3f2862aee88b
+
 ## Features
 
 - Sort lines of text by length in visual mode.
